@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LinkedIn-Beta-Version/static/css/main.410c79db.chunk.css",
+    "main.js": "/LinkedIn-Beta-Version/static/js/main.0c4b5ff5.chunk.js",
+    "main.js.map": "/LinkedIn-Beta-Version/static/js/main.0c4b5ff5.chunk.js.map",
+    "runtime-main.js": "/LinkedIn-Beta-Version/static/js/runtime-main.b0b43047.js",
+    "runtime-main.js.map": "/LinkedIn-Beta-Version/static/js/runtime-main.b0b43047.js.map",
+    "static/js/2.4ffa4c14.chunk.js": "/LinkedIn-Beta-Version/static/js/2.4ffa4c14.chunk.js",
+    "static/js/2.4ffa4c14.chunk.js.map": "/LinkedIn-Beta-Version/static/js/2.4ffa4c14.chunk.js.map",
+    "index.html": "/LinkedIn-Beta-Version/index.html",
+    "static/css/main.410c79db.chunk.css.map": "/LinkedIn-Beta-Version/static/css/main.410c79db.chunk.css.map",
+    "static/js/2.4ffa4c14.chunk.js.LICENSE.txt": "/LinkedIn-Beta-Version/static/js/2.4ffa4c14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0b43047.js",
+    "static/js/2.4ffa4c14.chunk.js",
+    "static/css/main.410c79db.chunk.css",
+    "static/js/main.0c4b5ff5.chunk.js"
+  ]
+}
